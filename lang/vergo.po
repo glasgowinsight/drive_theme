@@ -1,0 +1,561 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:60
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#. Text in function
+#: drive/comments.php:27
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/mag-authorinfo.php:4
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-300.php:61
+msgid "Ad Code:"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/uni-404-content.php:19
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-300.php:74
+msgid "Alt text:"
+msgstr ""
+
+#. Text in echo
+#: drive/date.php:19
+#: drive/date.php:23
+#: drive/date.php:27
+msgid "Archive for"
+msgstr ""
+
+#. Text in echo
+#: drive/tag.php:12
+#: drive/date.php:13
+msgid "Archive for the"
+msgstr ""
+
+#. Text in echo
+#: drive/date.php:31
+msgid "Author Archive"
+msgstr ""
+
+#. Text in echo
+#: drive/author.php:13
+msgid "Author archives: "
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:56
+msgid "Bio:"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/uni-404-content.php:11
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: drive/category.php:8
+#: drive/tag.php:12
+#: drive/date.php:13
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: drive/functions.php:480
+msgid "Comments (%)"
+msgstr ""
+
+#. Text in function
+#: drive/functions.php:480
+msgid "Comments (0)"
+msgstr ""
+
+#. Text in function
+#: drive/functions.php:480
+msgid "Comments (1)"
+msgstr ""
+
+#. Text in echo
+#: drive/comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: drive/functions/js/shortcode-generator/dialog.php:51
+msgid "Customize the Shortcode"
+msgstr ""
+
+#. Text in echo
+#: drive/footer.php:36
+msgid "Designed by"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-ads-125.php:41
+msgid "Example"
+msgstr ""
+
+#. Text in echo
+#: drive/functions.php:497
+msgid "Filled Under"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:54
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Follow"
+msgstr ""
+
+#. Text in function
+#: drive/functions/js/shortcode-generator/dialog.php:77
+msgid "Framework does not support shortcodes."
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "From: "
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:68
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:64
+msgid "Gravatar Size:"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:69
+msgid "Group"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Hide the Content"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:101
+msgid "Image 2 URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:115
+msgid "Image 3 URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:129
+msgid "Image 4 URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:88
+msgid "Image URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-300.php:66
+msgid "Image Url:"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:75
+#: drive/includes/uni-tabs.php:5
+msgid "Latest"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:70
+msgid "Left"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-300.php:70
+msgid "Link URL:"
+msgstr ""
+
+#. Text in echo
+#: drive/header.php:58
+#: drive/header.php:90
+msgid "MENU"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:83
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Message"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Message via the contact form"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "My %s Profile"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: drive/comments.php:28
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/mag-nextprev.php:9
+msgid "Next Post"
+msgstr ""
+
+#. Text in echo
+#: drive/template-404.php:12
+#: drive/404.php:7
+msgid "Nothing found here!"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-comments.php:76
+msgid "Number of comments"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:58
+msgid "Number:"
+msgstr ""
+
+#. Text in function
+#: drive/header.php:16
+msgid "Page %s"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/uni-404-content.php:3
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: drive/page.php:17
+#: drive/single-s-right.php:52
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: drive/template-404.php:14
+#: drive/404.php:9
+#: drive/search.php:33
+msgid "Perhaps You will find something interesting form these lists..."
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:22
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Please enter your email address (and please make sure it\\'s valid)"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Please enter your message"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Please enter your name"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/uni-tabs.php:6
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: drive/tag.php:16
+msgid "Posts Tagged"
+msgstr ""
+
+#. Text in echo
+#: drive/footer.php:36
+msgid "Powered by"
+msgstr ""
+
+#. Text in function
+#: drive/functions/js/shortcode-generator/dialog.php:60
+msgid "Preview"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/mag-nextprev.php:4
+msgid "Previous post"
+msgstr ""
+
+#. Text in echo
+#: drive/functions.php:496
+msgid "Published on"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:76
+#: drive/includes/uni-tabs.php:7
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Read Less"
+msgstr ""
+
+#. Text in echo
+#: drive/category.php:58
+#: drive/functions.php:489
+#: drive/functions/admin-shortcodes.php:1
+#: drive/includes/sliders/sequence.php:38
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:75
+msgid "Read More Text (optional):"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:79
+msgid "Read More URL (optional):"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Reply-To: "
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-blogauthor.php:71
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: drive/functions.php:1
+msgid "Score: "
+msgstr ""
+
+#. Text in echo
+#: drive/search.php:9
+msgid "Search Results for"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/uni-searchformhead.php:2
+#: drive/includes/uni-searchform.php:2
+msgid "Search website..."
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Show the Content"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:80
+msgid "Size:"
+msgstr ""
+
+#. Text in echo
+#: drive/page.php:34
+#: drive/single-s-right.php:87
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#. Text in echo
+#: drive/search.php:31
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:73
+msgid "Sorting:"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:82
+msgid "Square"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Subscribe to our RSS feed"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/uni-tabs.php:8
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:105
+msgid "Target 2 URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:119
+msgid "Target 3 URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:133
+msgid "Target 4 URL"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-125.php:92
+msgid "Target URL"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:84
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-ads-300.php:57
+msgid "Title (optional):"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-comments.php:71
+#: drive/functions/widgets/widget-social.php:36
+#: drive/functions/widgets/widget-blogauthor.php:52
+#: drive/functions/widgets/widget-ads-125.php:79
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: drive/includes/mag-rating.php:35
+msgid "Total Score "
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:66
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: drive/functions/widgets/widget-flickr.php:68
+msgid "User"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-ads-125.php:1
+msgid "Vergo - Ads 125px 4x"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-ads-300.php:1
+msgid "Vergo - Ads Widget 300px/Free"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-blogauthor.php:1
+msgid "Vergo - Blog Author Info"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-comments.php:1
+msgid "Vergo - Comments"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-flickr.php:1
+msgid "Vergo - Flickr"
+msgstr ""
+
+#. Text in function
+#: drive/functions/widgets/widget-social.php:1
+msgid "Vergo - Social Networks"
+msgstr ""
+
+#. Text in function
+#: drive/functions.php:1
+#: drive/functions.php:481
+#: drive/functions.php:498
+msgid "Views"
+msgstr ""
+
+#. Text in echo
+#: drive/author.php:22
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: drive/functions.php:495
+msgid "Written by"
+msgstr ""
+
+#. Text in function
+#: drive/functions/admin-shortcodes.php:1
+msgid "Your email was successfully sent."
+msgstr ""
+
+#. Text in echo
+#: drive/functions.php:477
+msgid "by"
+msgstr ""
