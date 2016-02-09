@@ -72,7 +72,7 @@
 </div><!-- #core -->
 
     <div id="rightsidebar">
-    <p>hello</p>
+    
 		<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar("Homepage Sidebar") ) : ?>
         
         <?php endif; ?>
